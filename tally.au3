@@ -1,5 +1,3 @@
-
-
 #include <Date.au3>
 #include <MsgBoxConstants.au3>
 Run("C:\Program Files\Tally.ERP9\tally.exe")
@@ -28,5 +26,3 @@ Send($t2&"@test.com{ENTER}")
 For $i = 16 To 1 Step -1
     Send("{ENTER}")
 Next
-9914879299
-12
